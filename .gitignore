@@ -1,0 +1,36 @@
+# Ambiente virtual
+venv/
+.venv/
+env/
+ENV/
+env.bak/
+venv.bak/
+
+# Arquivos de cache do Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Arquivos de log ou debug
+*.log
+
+# Configurações de IDEs
+.vscode/
+.idea/
+*.sublime-workspace
+*.sublime-project
+
+# Arquivos do sistema
+.DS_Store
+Thumbs.db
+
+# Arquivos de banco de dados SQLite (se aplicável)
+*.sqlite3
+
+# Arquivos de ambiente/sensíveis
+.env
+*.env
+
+# Compilações Cython
+*.c
+*.so
